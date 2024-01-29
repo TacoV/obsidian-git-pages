@@ -1,0 +1,5 @@
+site_name: My Obsidian Site
+docs_dir: ../
+
+theme:
+    name: material
