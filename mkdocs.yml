@@ -1,5 +1,7 @@
 site_name: My Obsidian Site
-docs_dir: ../
+
+exclude_docs: |
+    /docs
 
 theme:
     name: material

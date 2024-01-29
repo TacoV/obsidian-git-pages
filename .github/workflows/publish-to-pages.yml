@@ -1,4 +1,4 @@
-name: ci
+name: publish-to-pages
 on:
   push:
     branches:
@@ -20,4 +20,4 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-callouts
-      - run: mkdocs gh-deploy --force -f .config/mkdocs.yml
+      - run: mkdocs gh-deploy --force
