@@ -21,3 +21,14 @@ Template for iCloud-compatible git controlled obsidian vault with mkdocs and Git
 
 * iCloud on Windows is very buggy
 * sync is too expensive for hobby purposes
+
+## Does it work?
+
+Let's see. [[Here]]'s a link.
+
+## Configuration
+
+* Adjust your Obsidian settings as you wish
+* Read the [mkdocs user guide](https://www.mkdocs.org/user-guide/) and the [mkdocs material documentation](https://squidfunk.github.io/mkdocs-material/setup/)
+* Configure `mkdocs.yml` to adjust settings
+* Update `.github/workflows/publish-to-pages.yml` to install additional pip packages
