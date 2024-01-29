@@ -3,10 +3,11 @@ Template for iCloud-compatible git controlled obsidian vault with mkdocs and Git
 
 ## features 
 
-* vault in root, so you can clone into the obsidian iCloud folder
-* on push, published to your GitHub pages via mkdocs
-* ready to use in obsidian
-* nice template with Material
+* The Obsidian vault is located in the root directory, to make it compatible with iCloud's folder structure
+* A workflow publishes your site to your GItHub Pages using Mkdocs
+* Beautiful theme, very configuratble, Material
+* Ready to use in Obsidian
+* All the power and control of Git at your fingertips, with the convenience of iCloud syncing
 
 ## how to use
 
